@@ -98,7 +98,7 @@ int main(int argc, char** argv)
     struct timespec start, end;
     double total_time;
 
-    //srand(time(NULL));
+    srand(time(NULL));
 
     double t_n = 0;
 
