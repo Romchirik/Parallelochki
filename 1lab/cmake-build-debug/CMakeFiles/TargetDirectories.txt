@@ -1,0 +1,3 @@
+/home/romchirik/NSU/Parallelochki/1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/romchirik/NSU/Parallelochki/1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/romchirik/NSU/Parallelochki/1lab/cmake-build-debug/CMakeFiles/1lab.dir

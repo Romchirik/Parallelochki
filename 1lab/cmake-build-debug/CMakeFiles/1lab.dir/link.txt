@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1lab.dir/var1.cpp.o CMakeFiles/1lab.dir/var2.cpp.o CMakeFiles/1lab.dir/var3.cpp.o  -o 1lab 
