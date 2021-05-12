@@ -204,7 +204,7 @@ int main(int argc, char** argv)
     size_t lines_to_count = SIZE / proc_num;
     size_t shift = lines_to_count * rank;
     MPI_Scatter(main_matrix_full, lines_to_count * SIZE, MPI_DOUBLE, main_matrix, lines_to_count * SIZE, MPI_DOUBLE, 0, MPI_COMM_WORLD);
-    MPI_Bcast(b, SIZE, MPI_DOUBLE, 0, MPI_COMM_WORLD);
+   
     //start processing
     clock_gettime(CLOCK_MONOTONIC_RAW, &start);
 
